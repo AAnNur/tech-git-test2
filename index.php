@@ -9,5 +9,10 @@
 <body>
     <h1>Haloo Saya</h1>
     <h2>Menambahkan Paragraf</h2>
+    <ul>
+        <li>saya</li>
+        <li>kamu</li>
+        <li>Dia</li>
+    </ul>
 </body>
 </html>
